@@ -1,12 +1,4 @@
-<div>
-  <div align="center">
-    <img src="./assets/shopper-logo.svg" />
-  </div>
-  
-  <h2>Teste técnico para vaga de Desenvolvedor Full Stack na Shopper</h2>
-</div>
-
-**Teste:** Desenvolver o back-end de um serviço que gerencia a leitura individualizada de
+Back-end de um serviço que gerencia a leitura individualizada de
 consumo de água e gás. Utilizando IA para
 obter a medição através da foto de um medidor.
 
